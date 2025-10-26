@@ -10983,6 +10983,7 @@ db7n	pa	civil:14
 cmu	db7n	pa	civil:14
 db7n	cmu:21
 directly:21
+pagan:21
 using:21
 claimed:21
 passage:21
@@ -11012,7 +11013,6 @@ definitely:22
 difficult:22
 inc:22
 major:22
-lewis:22
 58:22
 considered:22
 event:22
@@ -11083,6 +11083,8 @@ obvious:24
 teach:24
 head:24
 guild:24
+mmalt:24
+mmalt	guild:24
 specifically:24
 natural:24
 basic:24
@@ -11113,6 +11115,7 @@ logic:25
 guess:25
 sorry:25
 disagree:25
+friend:25
 took:25
 became:25
 cases:25
@@ -11184,6 +11187,7 @@ reasons:28
 anybody:28
 problems:29
 died:29
+reject:29
 usually:29
 beginning:29
 suspect:29
@@ -11198,9 +11202,6 @@ wouldn:29
 intended:30
 taking:30
 unless:30
-parts:30
-parts	provide:9
-form:31
 claims:31
 provide:31
 simple:31
@@ -11210,4 +11211,3 @@ gov:33
 institute:33
 ways:33
 oh:34
-send:34
